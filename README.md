@@ -1,3 +1,3 @@
 # esp32_ir_receiver
 
-Prosty odbiork podczerwieni służący do sczytywania kodów IR.
+Prosty odbiornik podczerwieni służący do sczytywania kodów IR.
